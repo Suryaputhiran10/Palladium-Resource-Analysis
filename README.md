@@ -1,0 +1,1 @@
+This repository contains data-driven analysis and visualization of palladium (PGE) resources in South Africa, with a focus on the Bengwenyama deposit. Leveraging Python, Pandas, GeoPandas, and Matplotlib, it integrates geological datasets, maps existing and prospective mining sites, and delivers interactive spatial insights for mineral exploration.
